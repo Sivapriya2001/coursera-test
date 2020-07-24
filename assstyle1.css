@@ -1,0 +1,22 @@
+h5 {
+	text-aligh:center;
+}
+section {
+	border:2px solid black;
+	background-color: gray;
+}
+h6 {
+	text-align:center;
+}
+.class1 {
+	border:1px solid balck;
+	background-color: salmon;
+}
+.class2 {
+	border:1px solid balck;
+	background-color: firebrick;
+}
+.class3 {
+	border:1px solid balck;
+	background-color: khaki;
+}
